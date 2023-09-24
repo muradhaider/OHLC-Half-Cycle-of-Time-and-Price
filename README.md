@@ -18,3 +18,10 @@ Technical Implementation: The indicator is implemented using JavaScript and C#, 
 Practical Application: Traders and analysts can seamlessly apply this custom indicator to financial charts, enabling them to decode market trends, pinpoint potential trend reversals, and identify wave patterns. It empowers traders to make well-informed decisions and effectively manage risk within their trading strategies.
 
 This custom technical indicator represents a potent addition to a trader's toolkit, enhancing their technical analysis capabilities and assisting them in navigating the complexities of financial markets. It should be noted that the indicator's effectiveness may vary based on market conditions and should be utilized in conjunction with other analytical techniques and risk management strategies to optimize trading outcomes.
+
+
+![image](https://github.com/muradhaider/OHLC-Half-Cycle-of-Time-and-Price/assets/59993534/ec15964e-eba3-4b39-91f8-a07e7864ab35)
+
+![image](https://github.com/muradhaider/OHLC-Half-Cycle-of-Time-and-Price/assets/59993534/cbc0e22c-5928-4e50-a8f9-7b3ae2232c0d)
+
+
